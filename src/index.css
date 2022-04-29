@@ -284,6 +284,7 @@ Stripe Styles
     grid-template-columns: 2fr 1fr;
     align-items: end;
     padding-bottom: 12vh;
+    padding-top: 12vh;
   }
   .hero-info h1 {
     max-width: 100%;
@@ -299,6 +300,7 @@ Stripe Styles
 @media screen and (min-width: 1400px) {
   .hero-center {
     padding-bottom: 20vh;
+    padding-top: 20vh;
   }
   .phone-img {
     width: 17rem;
